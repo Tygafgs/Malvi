@@ -104,8 +104,8 @@ VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/How_To_Open_Linkl
 
 # Shortlink Info
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'arlinks.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'c0faab1f5c6e9d47a38356b93ccc278fe27f5672')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'softurl.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'f0dee553cdaf427fa0ecced5a5ca9e97cc202c78')
 
 # Others
 MAX_B_TN = environ.get("MAX_B_TN", "5")
@@ -159,3 +159,4 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 
 
 #MaviMods
+
